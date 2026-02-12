@@ -1,0 +1,8 @@
+{
+  "solana": {
+    "rpc": "https://api.mainnet-beta.solana.com"
+  },
+  "ethereum": {
+    "rpc": "https://mainnet.infura.io/v3/YOUR_KEY"
+  }
+}
